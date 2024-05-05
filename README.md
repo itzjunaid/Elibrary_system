@@ -1,2 +1,2 @@
 # Elibrary_system
-it is a library management system which is developed using Rest APIs.
+It is a E-library management system which is developed using Rest APIs.
